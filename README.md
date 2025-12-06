@@ -1,7 +1,13 @@
-### Hello World! My name is Abby Gamboa and I aspire to be a front end web developer. I have experience with HTML, CSS, Javascript, PHP and SQL. I believe with practice and consistency when it comes to honing a craft and web development is no different. 
+# Hello World! My name is Abby Gamboa and I aspire to be a front end web developer. I have experience with HTML, CSS, Javascript, PHP and SQL. I believe with practice and consistency when it comes to honing a craft and web development is no different. 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avgamboa@eiu.edu&layout=compact" alt=""/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avgamboa@eiu.edu)](https://github.com/avgamboa@eiu.edu/github-readme-stats)
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra
+)](https://github.com/anuraghazra/github-readme-stats)
+
 **AbbyGamboa/AbbyGamboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
