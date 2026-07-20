@@ -1,4 +1,4 @@
-# Hello World! My name is Abby Gamboa and I aspire to be a front end web developer. I have experience with HTML, CSS, Javascript, PHP and SQL. I believe with practice and consistency when it comes to honing a craft and web development is no different. 
+# Hello World! My name is Abby Gamboa and I aspire to be a web developer. I have experience with HTML, CSS, Javascript, PHP and SQL. I believe with practice and consistency when it comes to honing a craft and web development is no different. 
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
